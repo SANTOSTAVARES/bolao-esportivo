@@ -1,4 +1,5 @@
 # bolao-esportivo
+É aconselhavel rodar esta aplicação na versão 3.7 do python.
 
     Sobre a aplicação
 Esta aplicação deve ser utilizada para fazer bolão esportivo entre amigos.
