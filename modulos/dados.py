@@ -1,11 +1,6 @@
 import sqlite3
 from contextlib import closing
 
-
-
-
-
-
 def palpites():
     conexao = sqlite3.connect("palpites.db")
     cursor = conexao.cursor()
