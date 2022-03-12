@@ -3,7 +3,8 @@ from app_adm import app_admin
 from sys import exit
 
 def tela_inicial():
-    #Exibir menu de opções geral.
+    """Exibir menu de opções geral.
+    As opções são: o menu para os jogadores; as opções para quem vai administrar as informações sobre as partidas."""
 
     opcoes_usuario = [1, 2, 3]
 
